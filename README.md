@@ -69,6 +69,8 @@
 
 * Guantum Fields Theory
 
+	修士１年のときのゼミのノートです．
+
   * **QFT_Ch1.pdf**
 
 	相対論的量子力学
