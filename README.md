@@ -7,6 +7,10 @@
 
 ## 中身
 
+* **Grassmann_variables.pdf**
+
+	グラスマン代数，グラスマン数の積分微分についてまとめたノートです．
+
 * **Analytical_Mechanics.pdf**
   
 	私が学部のときに受けた解析力学の講義の板書ノートです．
